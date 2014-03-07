@@ -1,0 +1,16 @@
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\Matrici\Tavola_Bianca.psd
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.exe.manifest
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.application
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.exe
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.pdb
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.xml
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.Form1.resources
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe.manifest
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.application
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.xml
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.pdb
+C:\Users\balepari\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.vbproj.GenerateResource.Cache
+C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe
+C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.xml
+C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.pdb

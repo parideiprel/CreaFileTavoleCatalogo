@@ -1,0 +1,11 @@
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Debug\Matrici\Tavola_Bianca.psd
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Debug\CreaFileTavoleCatalogo.exe
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Debug\CreaFileTavoleCatalogo.pdb
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Debug\CreaFileTavoleCatalogo.xml
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\CreaFileTavoleCatalogo.Form1.resources
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\CreaFileTavoleCatalogo.exe
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\CreaFileTavoleCatalogo.xml
+c:\users\balepari\documents\visual studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Debug\CreaFileTavoleCatalogo.pdb
