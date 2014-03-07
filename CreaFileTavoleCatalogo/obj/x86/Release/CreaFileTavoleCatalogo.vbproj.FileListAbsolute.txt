@@ -14,3 +14,17 @@ C:\Users\balepari\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\C
 C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe
 C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.xml
 C:\Users\balespar\Documents\Visual Studio 2010\Projects\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.pdb
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.xml
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.pdb
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\Matrici\Tavola_Bianca.psd
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.exe.manifest
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.application
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.exe
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.pdb
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\CreaFileTavoleCatalogo.xml
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.Form1.resources
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.vbproj.GenerateResource.Cache
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.exe.manifest
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\obj\x86\Release\CreaFileTavoleCatalogo.application
+C:\Works\SWGit\CreaFileTavoleCatalogo\CreaFileTavoleCatalogo\bin\Release\Matrici\Tavola_Bianca_v2.psd

@@ -34,6 +34,7 @@ Partial Class Form1
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
+        Me.Button2 = New System.Windows.Forms.Button()
         CType(Me.NumericUpDown1, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.NumericUpDown2, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -128,7 +129,7 @@ Partial Class Form1
         '
         Me.Button1.BackColor = System.Drawing.Color.Yellow
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(265, 135)
+        Me.Button1.Location = New System.Drawing.Point(202, 141)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(98, 39)
         Me.Button1.TabIndex = 11
@@ -142,12 +143,24 @@ Partial Class Form1
         Me.ProgressBar1.Size = New System.Drawing.Size(585, 23)
         Me.ProgressBar1.TabIndex = 12
         '
+        'Button2
+        '
+        Me.Button2.BackColor = System.Drawing.Color.Lime
+        Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Button2.Location = New System.Drawing.Point(348, 141)
+        Me.Button2.Name = "Button2"
+        Me.Button2.Size = New System.Drawing.Size(128, 39)
+        Me.Button2.TabIndex = 13
+        Me.Button2.Text = "Genera NEW"
+        Me.Button2.UseVisualStyleBackColor = False
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
         Me.ClientSize = New System.Drawing.Size(640, 283)
+        Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label5)
@@ -181,5 +194,6 @@ Partial Class Form1
     Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents ProgressBar1 As System.Windows.Forms.ProgressBar
+    Friend WithEvents Button2 As System.Windows.Forms.Button
 
 End Class
