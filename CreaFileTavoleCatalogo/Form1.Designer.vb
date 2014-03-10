@@ -128,13 +128,15 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.BackColor = System.Drawing.Color.Yellow
+        Me.Button1.Enabled = False
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(202, 141)
+        Me.Button1.Location = New System.Drawing.Point(12, 136)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(98, 39)
+        Me.Button1.Size = New System.Drawing.Size(181, 39)
         Me.Button1.TabIndex = 11
-        Me.Button1.Text = "Genera"
+        Me.Button1.Text = "Genera 2048x1536"
         Me.Button1.UseVisualStyleBackColor = False
+        Me.Button1.Visible = False
         '
         'ProgressBar1
         '
@@ -145,13 +147,13 @@ Partial Class Form1
         '
         'Button2
         '
-        Me.Button2.BackColor = System.Drawing.Color.Lime
+        Me.Button2.BackColor = System.Drawing.Color.Yellow
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(348, 141)
+        Me.Button2.Location = New System.Drawing.Point(225, 136)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(128, 39)
+        Me.Button2.Size = New System.Drawing.Size(188, 39)
         Me.Button2.TabIndex = 13
-        Me.Button2.Text = "Genera NEW"
+        Me.Button2.Text = "Genera 3220x1984"
         Me.Button2.UseVisualStyleBackColor = False
         '
         'Form1
