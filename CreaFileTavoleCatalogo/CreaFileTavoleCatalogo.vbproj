@@ -29,8 +29,8 @@
     <InstallUrl>\\IPR-SQL01\Cataloghi\CreaFileTavoleCatalogo\</InstallUrl>
     <ProductName>CreaFileTavoleCatalogo</ProductName>
     <PublisherName>Iprel Progetti</PublisherName>
-    <ApplicationRevision>5</ApplicationRevision>
-    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>2.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
@@ -68,10 +68,10 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>5620AABEC8A15F617052CE485104BE4CB4A39AD7</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>408F12370E45B5794636D46500555E514DC5DF22</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>CreaFileTavoleCatalogo_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>CreaFileTavoleCatalogo_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -130,6 +130,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="CreaFileTavoleCatalogo_1_TemporaryKey.pfx" />
     <None Include="CreaFileTavoleCatalogo_TemporaryKey.pfx" />
     <Content Include="Matrici\Tavola_Bianca.psd">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
